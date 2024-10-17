@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cnithin7
+- 👋 Hi, I’m Charlz Nithin Jerold
 - 👀 I’m interested in Single Cell analysis in Cancer genomics
 - 🌱 I’m currently learning Nextflow, AWS
 - 💞️ I’m looking to collaborate on Open source genomic projects  
