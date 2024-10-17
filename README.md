@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open source genomic projects  
 - 📫 How to reach me  jerold@wustl.edu  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "I'm naturally curious, and one of my favorite ways to relax is diving into random Wikipedia rabbit holes. I love looking up an actor's filmography, finding out what projects they were working on in, say, 2007, and then seeing how their movies did. It’s amazing what fun trivia you can uncover!"
+- ⚡ Fun fact: "I'm super curious and love going down Wikipedia rabbit holes, like checking an actor's filmography and seeing what they were up to in a random year, like 2007, and how their movies did."
 
 <!---
 cnithin7/cnithin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
