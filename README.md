@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charlz Nithin Jerold
-- 👀 I’m interested in Single Cell analysis in Cancer genomics
+- 👀 I’m interested in Single Cell Analysis in Cancer Genomics
 - 🌱 I’m currently learning WDL,Cloud Computing
 - 💞️ I’m looking to collaborate on Open source genomic projects  
 - 📫 How to reach me  jerold@wustl.edu  
